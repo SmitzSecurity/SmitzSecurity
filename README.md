@@ -12,7 +12,7 @@
   - [Contact Scraper!](https://github.com/SmitzSecurity/usf-bullsconnect-officer-scraper)
 
 - <b>HesychiaHex - AHK Script to Automatically Trigger PC Grayscale, Muting, and Locking. </b>
-  - [HesychiaHex](https://github.com/SmitzSecurity/AHK-AutoGrayscale)
+  - [HesychiaHex](https://github.com/SmitzSecurity/HeyschiaHex)
 
 <h2> 🤳 Connect with me:</h2>
 
