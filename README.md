@@ -20,7 +20,7 @@
 [<img align="left" alt="AbrahamSmitz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AbrahamSmitz | LinkedIn" width="22px" src="https://github.com/SmitzSecurity/SmitzSecurity/assets/41767740/6f4bfc22-6c8a-4ac7-9390-f5692b8b135b" />][credly]
 
-[website]: https://www.smitzgroup.com/
+[website]: https://smitzgroup.com/
 
 [linkedin]: https://www.linkedin.com/in/abrahamsmitz/
 
